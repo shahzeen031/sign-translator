@@ -7,8 +7,8 @@ let multer = require('multer');
 const upload = multer();
 //AWS access details
 AWS.config.update({
-    accessKeyId: 'AKIA2OLJ62BHWLUFBV7O',
-    secretAccessKey: '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',
+    accessKeyId: '',
+    secretAccessKey: '',
     region: 'us-west-2'
 });
 
